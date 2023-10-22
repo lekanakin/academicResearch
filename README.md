@@ -1,7 +1,7 @@
 # academicResearch
 List of my academic research
 
-I have contributed to the data science and artificial intelligence body of knowledge, demonstrating competency in academic research and innovation. My peer-reviewed scientific research has been accepted into prestigious conferences and journals.
+I have contributed to the data science and artificial intelligence body of knowledge, demonstrating competency in academic research and innovation. My peer-reviewed academic research has been accepted into prestigious conferences and journals.
 
 ● "AFRIRAZER: A Deep Learning Model to remove Background and Skin from Traditional African Fashion Images." Black in AI Workshop, 34th Conference on Neural Information Processing Systems (NeurIPS 2020) [(link)](https://www.researchgate.net/publication/346418890_AFRIRAZER_A_Deep_Learning_Model_to_remove_Background_and_Skin_from_Traditional_African_Fashion_Images)
 
